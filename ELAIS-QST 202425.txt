@@ -1,0 +1,19 @@
+ELAIS-QST 202425
+
+Download me::
+1. Ubuntu stable version - pass* - zmart@345
+2. VMware stable version - pass* - zmart
+3. Anaconda
+4. Python 3*
+5. Jupyter Notebook*
+ 
+Step 8: Install VMware Tools
+
+- After Ubuntu installation, click on "Virtual Machine" > "Install VMware Tools".
+- Follow the prompts to install VMware Tools.
+
+Step 9: Enjoy Your New Ubuntu VM!
+
+- You now have a fully functional Ubuntu virtual machine running on Windows 10 using VMware!
+
+Note: Make sure your system meets the minimum requirements for running a virtual machine, and adjust settings as needed for optimal performance.
